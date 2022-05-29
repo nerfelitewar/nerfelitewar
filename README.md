@@ -19,4 +19,4 @@ I always try to learn something new, because knowledge never goes to zero!💯 a
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nerfelitewar&icon=5&color=11)]
+[![](https://visitcount.itsvg.in/api?id=nerfelitewar&icon=5&color=11)
