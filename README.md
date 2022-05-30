@@ -19,7 +19,7 @@ I always try to learn something new, because knowledge never goes to zero!💯 a
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/P4BpvUCZyW) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/P4BpvUCZyW) 
 
 ---
 ![](https://visitcount.itsvg.in/api?id=nerfelitewar&icon=5&color=11)
