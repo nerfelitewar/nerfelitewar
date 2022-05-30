@@ -20,7 +20,7 @@ I always try to learn something new, because knowledge never goes to zero!💯 a
 
 ## 🌐Contact me:
 ### 🤖My Discord ID-
-**784040429246087168** [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
+**784040429246087168** ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
 
 ---
 ![](https://visitcount.itsvg.in/api?id=nerfelitewar&icon=5&color=11)
