@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Me : ![](https://cdn.discordapp.com/emojis/980254975198363678.gif?size=40)
 Hi, I am Arshad aka nerfelitewar. I love coding and programming!😁
 
 I always try to learn something new, because knowledge never goes to zero!💯 and always try to imporve myself everyday! 🌟
