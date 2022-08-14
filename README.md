@@ -32,5 +32,5 @@ I always try to learn something new, because knowledge never goes to zero!💯 a
 
 ## 🌐Contact me:
 ### 🤖My Discord ID-
-**1008059594238603304** ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1008059594238603304)
 ![](https://komarev.com/ghpvc/?username=nerfelitewar&color=6547bf&style=flat&label=profile+views)
