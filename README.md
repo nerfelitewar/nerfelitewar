@@ -14,25 +14,36 @@ I always try to learn something new, because knowledge never goes to zero!💯 a
   
 </div>
 
+
 # 📊GitHub Stats :
-<h1 align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=nerfelitewar&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-</h1><br>
-<h1 align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nerfelitewar&theme=radical&hide_border=false">
-</h1><br>
 
-<h1 align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerfelitewar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</h1><br>
+  
+  <h1 align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=nerfelitewar&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+  </h1><br>
+<details>
+  <summary><var><h3>MORE ABOUT STATS 🔥</h3></var></summary>
+  <h1 align="center">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nerfelitewar&theme=radical&hide_border=false">
+  </h1><br>
 
+  <h1 align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerfelitewar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  </h1><br>
+</details>
 
-<h1 style="text-align:center">✍️Random Dev Quote<h1>
-<h1 align="center">
-  <img width="300" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
-</h1>
+  <h1 style="text-align:center">✍️Random Dev Quote<h1>
+  <h1 align="center">
+    <img width="300" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
+  </h1>
+   
 
+  
 ## 🌐Contact me:
 ### 🤖My Discord-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1008059594238603304)
-![](https://komarev.com/ghpvc/?username=nerfelitewar&color=6547bf&style=flat&label=profile+views)
+<br>
+<details>
+  <summary><var><h4>PROFILE VIEWS 👁</h4></var></summary>
+  <img style="margin: 10px" src="https://komarev.com/ghpvc/?username=nerfelitewar&color=6547bf&style=flat&label=profile+views" alt="PFP VIEWS" height="30" />  
+</details>
