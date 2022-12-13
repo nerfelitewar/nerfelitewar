@@ -4,7 +4,7 @@
 </div>
   
 Hi, I am Arshad aka nerfelitewar. I love coding and programming!😁
-I always try to learn something new, because knowledge never goes to zero!💯 and always try to improve myself everyday! 🌟
+I always try to learn something new, because knowledge never goes to zero!💯 and always try to improve myself everyday! 🌟<br>
 I aspire to become a software engineer in future!!!🧑‍💻🖥️🚀
 # 💻 Tech Stack:
 <div align="center">  
