@@ -1,7 +1,11 @@
 # 💫About Me : ![](https://cdn.discordapp.com/emojis/980254975198363678.gif?size=40)
-Hi, I am <span style="color:red;">Arshad</span> aka <span style="color:yellow">nerfelitewar</span>. I love coding and programming!😁
-
+<div align="right">
+  <img style="margin: 10px" src="https://komarev.com/ghpvc/?username=nerfelitewar&color=6547bf&style=flat&label=Profile+Views" alt="PFP VIEWS" height="30" />  
+</div>
+  
+Hi, I am Arshad aka nerfelitewar. I love coding and programming!😁
 I always try to learn something new, because knowledge never goes to zero!💯 and always try to improve myself everyday! 🌟
+I aspire to become a software engineer in future!!!🧑‍💻🖥️🚀
 # 💻 Tech Stack:
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
@@ -38,12 +42,11 @@ I always try to learn something new, because knowledge never goes to zero!💯 a
   </h1>
    
 
-  
-## 🌐Contact me:
-### 🤖My Discord-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/0000)
-<br>
+
 <details>
-  <summary><var><h4>PROFILE VIEWS 👁</h4></var></summary>
-  <img style="margin: 10px" src="https://komarev.com/ghpvc/?username=nerfelitewar&color=6547bf&style=flat&label=profile+views" alt="PFP VIEWS" height="30" />  
+  <summary><var><h4>🌐Contact me!</h4></var></summary>
+  <a href="https://discord.com/users/0000">
+    <img style="margin: 10px" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="DISCORD" height="30" />  
+    
+  
 </details>
