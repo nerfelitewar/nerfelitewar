@@ -46,7 +46,7 @@ I aspire to become a software engineer in future!!!🧑‍💻🖥️🚀
 
 <details>
   <summary><var><h4>🌐Contact me!</h4></var></summary>
-  <a href="https://discord.com/users/0000">
+  <a href="https://discord.com/users/1051524549348442162">
     <img style="margin: 10px" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="DISCORD" height="30" />  
   </a> <br>
   <a href="https://discord.com/users/968448572641124352">
