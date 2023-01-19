@@ -1,8 +1,5 @@
 # 💫About Me : ![](https://cdn.discordapp.com/emojis/980254975198363678.gif?size=40)
-<div align="right">
-  <img style="margin: 10px" src="https://komarev.com/ghpvc/?username=nerfelitewar&color=6547bf&style=flat&label=Profile+Views" alt="PFP VIEWS" height="30" />  
-</div>
-  
+
 Hi, I am Arshad aka nerfelitewar. <br>
 I love coding and programming!😁
 I always try to learn something new, because knowledge never goes to zero!💯 and always try to improve myself everyday! 🌟<br>
@@ -55,3 +52,9 @@ I aspire to become a software engineer in future!!!🧑‍💻🖥️🚀
 
   
 </details>
+  
+  
+<div align="left">
+  <img style="margin: 10px" src="https://komarev.com/ghpvc/?username=nerfelitewar&color=6547bf&style=flat&label=Profile+Views" alt="PFP VIEWS" height="30" />  
+</div>
+  
