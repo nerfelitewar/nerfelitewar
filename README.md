@@ -55,6 +55,6 @@ I aspire to become a software engineer in future!!!🧑‍💻🖥️🚀
   
   
 <div align="left">
-  <img style="margin: 10px" src="https://komarev.com/ghpvc/?username=nerfelitewar&color=6547bf&style=flat&label=Profile+Views" alt="PFP VIEWS" height="30" />  
+  <img style="margin: 10px" src="https://komarev.com/ghpvc/?username=nerfelitewar&color=6547bf&style=flat&label=Profile+Views" alt="PFP VIEWS" height="20" />  
 </div>
   
