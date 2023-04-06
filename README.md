@@ -43,11 +43,11 @@ I aspire to become a software engineer in future!!!🧑‍💻🖥️🚀
 
 <details>
   <summary><var><h4>🌐Contact me!</h4></var></summary>
-  <a href="https://discord.com/users/1051524549348442162">
+  <a href="https://discord.com/users/1084177475120152586">
     <img style="margin: 10px" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="DISCORD" height="30" />  
   </a> <br>
-  <a href="https://discord.com/users/1051524549348442162">
-     <img src="https://lanyard.cnrad.dev/api/1051524549348442162" width="400" height="200" />
+  <a href="https://discord.com/users/1084177475120152586">
+     <img src="https://lanyard.cnrad.dev/api/1084177475120152586" width="400" height="200" />
   </a>
 
   
