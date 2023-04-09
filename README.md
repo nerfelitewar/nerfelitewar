@@ -12,6 +12,7 @@ I aspire to become a software engineer in future!!!🧑‍💻🖥️🚀
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png" alt="My SQL" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 15px" src="https://rapidapi.com/uploads/white_logo_2068ec82d9.svg" alt="Rapid API" height="40" />  
   
   
 </div>
