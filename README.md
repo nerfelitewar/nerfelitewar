@@ -1,9 +1,19 @@
 # 💫About Me : ![](https://cdn.discordapp.com/emojis/980254975198363678.gif?size=40)
 
-Hi, I am Arshad aka nerfelitewar. <br>
-I love coding and programming!😁
-I always try to learn something new, because knowledge never goes to zero!💯 and always try to improve myself everyday! 🌟<br>
-I aspire to become a software engineer in future!!!🧑‍💻🖥️🚀
+
+🎓 **Arshad (he/him)** aka **nerfelitewar**  
+🌟 **Age:** 19 | 🏫 **Freshman at:** VIT-AP University  
+___
+
+👨‍💻 **Passions:**  
+Coding & Programming are my playgrounds, where creativity meets logic! I’m always on the hunt for new knowledge, believing that **"Knowledge never goes to zero!"** 💡💯  
+
+🎯 **Personal Mission:**  
+Every day is a new opportunity to learn, grow, and become the best version of myself. 🚀✨  
+___
+
+Let’s connect and build something amazing together! 💻🔗
+
 # 💻 Tech Stack:
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
