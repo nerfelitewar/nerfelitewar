@@ -68,6 +68,7 @@ Let’s connect and build something amazing together! 💻🔗
   
   
 <div align="left">
-  <img style="margin: 10px" src="https://komarev.com/ghpvc/?username=nerfelitewar&color=6547bf&style=flat&label=Profile+Views" alt="PFP VIEWS" height="20" />  
+  <img style="margin: 10px" src="https://komarev.com/ghpvc/?username=nerfelitewar&color=brightgreen&style=plastic&label=Profile+Views" alt="PFP VIEWS" height="20" />  
 </div>
+
   
