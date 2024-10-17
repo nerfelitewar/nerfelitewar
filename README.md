@@ -25,6 +25,8 @@ Let’s connect and build something amazing together! 💻🔗
 <a href="https://rapidapi.com/"><img style="margin: 15px" src="https://rapidapi.com/uploads/white_logo_2068ec82d9.svg" alt="Rapid API" height="40" /></a>
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VScode" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" height="50" />  
+
   
   
 </div>
