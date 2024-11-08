@@ -26,6 +26,7 @@ Let’s connect and build something amazing together! 💻🔗
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VScode" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" height="50" />  
+<img src="https://blog.appseed.us/content/images/size/w2000/2023/10/cover-flask.jpg" alt="Flask" height="40" style="margin: 10px;" />
 
   
   
