@@ -2,7 +2,7 @@
 
 
 🎓 **Arshad (he/him)** aka **nerfelitewar**  
-🌟 **Age:** 20 | 🏫 **Sophomore at:** VIT-AP University  
+🌟 **Age:** 21 | 🏫 **3rd Year at:** VIT-AP University  
 💻 **JAVA** & **Python** Developer
 ___
 
